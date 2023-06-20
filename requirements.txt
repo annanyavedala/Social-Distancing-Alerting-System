@@ -1,0 +1,11 @@
+click==7.1.2
+Flask==1.1.2
+imutils==0.5.3
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+numpy==1.19.1
+opencv-contrib-python==4.4.0.42
+opencv-python==4.4.0.42
+scipy==1.5.2
+Werkzeug==1.0.1
